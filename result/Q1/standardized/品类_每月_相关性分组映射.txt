@@ -1,0 +1,6 @@
+水生根茎类: Category0
+花叶类: Category1
+花菜类: Category2
+茄类: Category3
+辣椒类: Category4
+食用菌: Category5

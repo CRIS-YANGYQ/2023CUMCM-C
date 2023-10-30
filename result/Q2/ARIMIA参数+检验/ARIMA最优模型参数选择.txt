@@ -1,0 +1,19 @@
+This is a new line.
+水生根茎类ARIMA 最优模型参数:
+	p, d, q: (3, 2, 0)
+	Smallest RMSE:0.010369646213586187
+花叶类ARIMA 最优模型参数:
+	p, d, q: (3, 2, 1)
+	Smallest RMSE:0.001709641796854374
+花菜类ARIMA 最优模型参数:
+	p, d, q: (2, 2, 1)
+	Smallest RMSE:0.002491903474105417
+茄类ARIMA 最优模型参数:
+	p, d, q: (2, 2, 1)
+	Smallest RMSE:0.0017124722333939461
+辣椒类ARIMA 最优模型参数:
+	p, d, q: (2, 2, 2)
+	Smallest RMSE:0.0015568463200052384
+食用菌ARIMA 最优模型参数:
+	p, d, q: (1, 2, 3)
+	Smallest RMSE:0.0007793795940360211

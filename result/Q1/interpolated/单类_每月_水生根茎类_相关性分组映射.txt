@@ -1,0 +1,10 @@
+净藕(1): Category0
+洪湖莲藕(粉藕): Category1
+洪湖藕带: Category2
+红莲藕带: Category3
+荸荠: Category4
+莲蓬(个): Category5
+菱角: Category6
+野藕(1): Category7
+高瓜(1): Category8
+高瓜(2): Category9

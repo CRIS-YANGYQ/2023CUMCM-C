@@ -1,0 +1,59 @@
+Category 水生根茎类:  diff2
+Test Statistic                -9.687533e+00
+p-value                        1.159766e-16
+#Lags Used                     7.000000e+00
+Number of Observations Used    1.130000e+02
+Critical Value (1%)           -3.489590e+00
+Critical Value (5%)           -2.887477e+00
+Critical Value (10%)          -2.580604e+00
+dtype: float64
+
+Category 花叶类:  diff2
+Test Statistic                -5.673451e+00
+p-value                        8.814018e-07
+#Lags Used                     1.300000e+01
+Number of Observations Used    1.070000e+02
+Critical Value (1%)           -3.492996e+00
+Critical Value (5%)           -2.888955e+00
+Critical Value (10%)          -2.581393e+00
+dtype: float64
+
+Category 花菜类:  diff2
+Test Statistic                -6.057564e+00
+p-value                        1.234645e-07
+#Lags Used                     1.300000e+01
+Number of Observations Used    1.070000e+02
+Critical Value (1%)           -3.492996e+00
+Critical Value (5%)           -2.888955e+00
+Critical Value (10%)          -2.581393e+00
+dtype: float64
+
+Category 茄类:  diff2
+Test Statistic                -6.331548e+00
+p-value                        2.898052e-08
+#Lags Used                     1.300000e+01
+Number of Observations Used    1.070000e+02
+Critical Value (1%)           -3.492996e+00
+Critical Value (5%)           -2.888955e+00
+Critical Value (10%)          -2.581393e+00
+dtype: float64
+
+Category 辣椒类:  diff2
+Test Statistic                -6.802180e+00
+p-value                        2.222651e-09
+#Lags Used                     1.300000e+01
+Number of Observations Used    1.070000e+02
+Critical Value (1%)           -3.492996e+00
+Critical Value (5%)           -2.888955e+00
+Critical Value (10%)          -2.581393e+00
+dtype: float64
+
+Category 食用菌:  diff2
+Test Statistic                -7.023811e+00
+p-value                        6.441222e-10
+#Lags Used                     1.300000e+01
+Number of Observations Used    1.070000e+02
+Critical Value (1%)           -3.492996e+00
+Critical Value (5%)           -2.888955e+00
+Critical Value (10%)          -2.581393e+00
+dtype: float64

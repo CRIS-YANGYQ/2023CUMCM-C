@@ -1,0 +1,7 @@
+圆茄子(2): Category0
+大龙茄子: Category1
+紫茄子(2): Category2
+花茄子: Category3
+长线茄: Category4
+青茄子(1): Category5
+青茄子(2): Category6
